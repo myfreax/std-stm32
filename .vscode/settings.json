@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "stm32f1xx.h": "c",
+        "misc.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "stm32f10x.h": "c",
+        "core_cm3.h": "c",
+        "system_stm32f10x.h": "c"
+    },
+    "cmake.configureOnOpen": false,
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/myfreax/work/stm32/cubemx/makefile/build",
+            "binaryPath": "/home/myfreax/work/stm32/cubemx/makefile/build/makefile.elf",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/myfreax/work/stm32/cubemx/helloworld/build",
+            "binaryPath": "/home/myfreax/work/stm32/cubemx/helloworld/build/helloworld.elf",
+            "binaryArgs": []
+        }
+    ],
+    "cortex-debug.armToolchainPath": "/usr/bin",
+    "cortex-debug.openocdPath": "",
+    "stm32-for-vscode.openOCDPath": ""
+}
